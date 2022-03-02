@@ -1,4 +1,4 @@
 # ALX-system-engineering-devops
 ## Shell commands
 
-Creating excetable files to practice various shell commands
+Creating executable files to practice various shell commands
