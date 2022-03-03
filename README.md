@@ -1,2 +1,4 @@
-# alx-system_engineering-devops
-System engineering devops at alx
+# ALX-system-engineering-devops
+## Shell commands
+
+Creating executable files to practice various shell commands
